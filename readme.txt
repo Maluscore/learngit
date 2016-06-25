@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git is nice for me.
 trying to add newline separately.
 this is the sceond line.
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
